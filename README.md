@@ -37,4 +37,11 @@ form.setupUi(window)
 window.show()
 app.exec()
 ```
+5. 결과 화면
+
+<a href="https://build-system.fman.io/qt-designer-download">
+  <img src="https://github.com/user-attachments/assets/3deedfc7-5621-4bb3-b61f-e3ffcf7ebb2e" alt="image" width="250"/>
+</a>
+
+
 
