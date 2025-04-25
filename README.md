@@ -43,5 +43,14 @@ app.exec()
   <img src="https://github.com/user-attachments/assets/3deedfc7-5621-4bb3-b61f-e3ffcf7ebb2e" alt="image" width="250"/>
 </a>
 
+6. 추가 결과 화면
+
+<a href="https://build-system.fman.io/qt-designer-download">
+  <img src="https://github.com/user-attachments/assets/f9ce9d01-d72b-400e-98fd-9ea5dd35106c" alt="image1" width="250"/>
+</a>
+<a href="https://build-system.fman.io/qt-designer-download">
+  <img src="https://github.com/user-attachments/assets/985743aa-9ac9-4a04-a262-a6e94e88bd25" alt="image2" width="250"/>
+</a>
+
 
 
